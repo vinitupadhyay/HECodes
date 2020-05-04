@@ -1,2 +1,2 @@
 # HECodes
-This contains all the codes done by me form hacker earth
+This contains all the codes done by me on hacker earth
